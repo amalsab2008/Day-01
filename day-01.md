@@ -13,7 +13,7 @@ Vaishnav C V is an experienced mentor in the field of cybersecurity and developm
 
 ## 🔐 What is Cybersecurity?
 
-![Cybersecurity Basics](what-is-cybersecurity.jpg)
+![Cybersecurity Basics](what_is_cybersecurity.jpg)
 
 Cybersecurity is the practice of protecting **systems**, **networks**, and **programs** from **digital attacks**. These attacks are usually aimed at:
 - Accessing
@@ -26,7 +26,7 @@ It ensures confidentiality, integrity, and availability of data and systems.
 
 ## 🛡️ What We Do in Cybersecurity
 
-![Cybersecurity Activities](what-we-do.jpg)
+![Cybersecurity Activities](what_we_do.jpg)
 
 Key tasks in cybersecurity:
 - **Protect Data**
@@ -41,7 +41,7 @@ Key tasks in cybersecurity:
 
 ## ⚔️ Red, Blue & Purple Teams
 
-![Red Blue Purple Team](red-blue-purple-team.jpg)
+![Red Blue Purple Team](red_blue_purple_team.jpg)
 
 | **Red Team** (Attackers) | **Blue Team** (Defenders) | **Purple Team** (Collaborators) |
 |--------------------------|---------------------------|----------------------------------|
@@ -68,7 +68,7 @@ A **SOC** is a centralized unit that monitors, detects, responds to, and prevent
 
 ## ⚠️ Types of Cybersecurity Threats
 
-![Cyber Threats](cyber-threats.jpg)
+![Cyber Threats](cyber_threats.jpg)
 
 1. **Phishing** – Fake emails/websites tricking users into giving information.
 2. **Ransomware** – Malicious software locking data until ransom is paid.
